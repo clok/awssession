@@ -1,5 +1,7 @@
 # awssession - Super simple AWS session generator.
 
+[![Go Report Card](https://goreportcard.com/badge/clok/awssession)](https://goreportcard.com/report/clok/awssession) [![Coverage Status](https://coveralls.io/repos/github/clok/awssession/badge.svg?branch=master)](https://coveralls.io/github/clok/awssession?branch=master) [![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/clok/awssession?tab=overview)
+
 ### Example
 
 Simple example of an S3 Get.
