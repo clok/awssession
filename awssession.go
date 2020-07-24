@@ -24,7 +24,7 @@ import (
 // If running on an EC2 instance, the metaClient will be available and we can set the region to match the instance
 // If not on an EC2 instance, the region will remain blank and AWS returns a "MissingRegion: ..." error
 func New() (*session.Session, error) {
-	k := kemba.New("aws-session:new")
+	k := kemba.New("awssession:new")
 	// All clients require a Session. The Session provides the client with
 	// shared configuration such as region, endpoint, and credentials. A
 	// Session should be shared where possible to take advantage of
