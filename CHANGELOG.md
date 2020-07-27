@@ -2,10 +2,19 @@
 ## [Unreleased]
 
 
+<a name="v0.1.4"></a>
+## [v0.1.4] - 2020-07-27
+### Bug Fixes
+- move logger to scoped declaration
+
+
 <a name="v0.1.3"></a>
 ## [v0.1.3] - 2020-07-27
 ### Chore
 - updated dependencies
+
+### Features
+- **release:** v0.1.3
 
 
 <a name="v0.1.2"></a>
@@ -38,7 +47,8 @@
 - **release:** v0.1.0
 
 
-[Unreleased]: https://github.com/clok/awssession/compare/v0.1.3...HEAD
+[Unreleased]: https://github.com/clok/awssession/compare/v0.1.4...HEAD
+[v0.1.4]: https://github.com/clok/awssession/compare/v0.1.3...v0.1.4
 [v0.1.3]: https://github.com/clok/awssession/compare/v0.1.2...v0.1.3
 [v0.1.2]: https://github.com/clok/awssession/compare/v0.1.1...v0.1.2
 [v0.1.1]: https://github.com/clok/awssession/compare/v0.1.0...v0.1.1
