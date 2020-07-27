@@ -7,6 +7,10 @@ import (
 	"github.com/clok/kemba"
 )
 
+var (
+	k = kemba.New("awssession:new")
+)
+
 // New establishes a Session to interact with AWS.
 //
 // Credit to https://github.com/cyberark/summon-aws-secrets/blob/master/main.go for initial implementation.
@@ -24,7 +28,6 @@ import (
 // If running on an EC2 instance, the metaClient will be available and we can set the region to match the instance
 // If not on an EC2 instance, the region will remain blank and AWS returns a "MissingRegion: ..." error
 func New() (*session.Session, error) {
-	k := kemba.New("awssession:new")
 	// All clients require a Session. The Session provides the client with
 	// shared configuration such as region, endpoint, and credentials. A
 	// Session should be shared where possible to take advantage of
