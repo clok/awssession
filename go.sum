@@ -44,6 +44,7 @@ github.com/clok/kemba v0.5.0 h1:2LFDmIxvAnqVhrIuMGkY0emQLRuiXo9Gmm0RIaMh4w4=
 github.com/clok/kemba v0.5.0/go.mod h1:0arBoVOTmV5rgJAVsgXCmGRnKnf1g5TIH0rUja13LAc=
 github.com/clok/kemba v0.6.0 h1:6/szJc+b/JC/PMYvrAbKiLayW51J8MlbgqsLMOPKaC4=
 github.com/clok/kemba v0.6.0/go.mod h1:0arBoVOTmV5rgJAVsgXCmGRnKnf1g5TIH0rUja13LAc=
+github.com/clok/kemba v0.6.3/go.mod h1:0arBoVOTmV5rgJAVsgXCmGRnKnf1g5TIH0rUja13LAc=
 github.com/coreos/bbolt v1.3.2/go.mod h1:iRUV2dpdMOn7Bo10OQBFzIJO9kkE559Wcmn+qkEiiKk=
 github.com/coreos/etcd v3.3.10+incompatible/go.mod h1:uF7uidLiAD3TWHmW31ZFd/JWoc32PjwdhPthX9715RE=
 github.com/coreos/etcd v3.3.13+incompatible/go.mod h1:uF7uidLiAD3TWHmW31ZFd/JWoc32PjwdhPthX9715RE=
