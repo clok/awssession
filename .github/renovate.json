@@ -1,15 +1,24 @@
 {
-    "semanticCommits": true,
-    "prHourlyLimit": 2,
-    "labels": ["dependencies"],
-    "extends": [
-        "config:base",
-        ":pinAllExceptPeerDependencies"
-    ],
-    "major": {
-        "labels": ["dependencies", "major"]
-    },
-    "minor": {
-        "labels": ["dependencies", "minor"]
-    }
+  "semanticCommits": true,
+  "prHourlyLimit": 5,
+  "reviewersFromCodeOwners": true,
+  "labels": [
+    "dependencies"
+  ],
+  "extends": [
+    "config:base",
+    ":pinAllExceptPeerDependencies"
+  ],
+  "major": {
+    "labels": [
+      "dependencies",
+      "major"
+    ]
+  },
+  "minor": {
+    "labels": [
+      "dependencies",
+      "minor"
+    ]
+  }
 }
