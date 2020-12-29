@@ -2,6 +2,22 @@
 ## [Unreleased]
 
 
+<a name="v0.1.6"></a>
+## [v0.1.6] - 2020-12-29
+### Chore
+- update go.sum
+- **deps:** update jandelgado/gcov2lcov-action action to v1.0.8 ([#15](https://github.com/clok/awssession/issues/15))
+- **deps:** update module aws/aws-sdk-go to v1.36.16 ([#14](https://github.com/clok/awssession/issues/14))
+- **deps:** update module aws/aws-sdk-go to v1.35.20 ([#13](https://github.com/clok/awssession/issues/13))
+- **deps:** update module aws/aws-sdk-go to v1.35.18 ([#8](https://github.com/clok/awssession/issues/8))
+- **deps:** update coverallsapp/github-action action to v1.1.2 ([#9](https://github.com/clok/awssession/issues/9))
+- **deps:** update jandelgado/gcov2lcov-action action to v1.0.7 ([#10](https://github.com/clok/awssession/issues/10))
+- **deps:** update actions/checkout action to v2 ([#11](https://github.com/clok/awssession/issues/11))
+- **deps:** update actions/setup-go action to v2 ([#12](https://github.com/clok/awssession/issues/12))
+- **deps:** update module aws/aws-sdk-go to v1.34.26 ([#7](https://github.com/clok/awssession/issues/7))
+- **deps:** update module clok/kemba to v0.7.1 ([#6](https://github.com/clok/awssession/issues/6))
+
+
 <a name="v0.1.5"></a>
 ## [v0.1.5] - 2020-08-21
 ### Chore
@@ -15,6 +31,9 @@
 - **renovate:** update config
 - **renovate:** clean up dupe config
 - **renovate:** add config file
+
+### Features
+- **release:** v0.1.5
 
 
 <a name="v0.1.4"></a>
@@ -65,7 +84,8 @@
 - **release:** v0.1.0
 
 
-[Unreleased]: https://github.com/clok/awssession/compare/v0.1.5...HEAD
+[Unreleased]: https://github.com/clok/awssession/compare/v0.1.6...HEAD
+[v0.1.6]: https://github.com/clok/awssession/compare/v0.1.5...v0.1.6
 [v0.1.5]: https://github.com/clok/awssession/compare/v0.1.4...v0.1.5
 [v0.1.4]: https://github.com/clok/awssession/compare/v0.1.3...v0.1.4
 [v0.1.3]: https://github.com/clok/awssession/compare/v0.1.2...v0.1.3
