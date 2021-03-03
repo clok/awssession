@@ -2,6 +2,17 @@
 ## [Unreleased]
 
 
+<a name="v1.0.0"></a>
+## [v1.0.0] - 2021-03-03
+### Bug Fixes
+- **deps:** update module github.com/aws/aws-sdk-go to v1.37.22 ([#20](https://github.com/clok/awssession/issues/20))
+
+### Chore
+- **github actions:** add go proxy warming
+- **renovate:** add extension for group:allNonMajor
+- **renovate:** add gomodTidy option
+
+
 <a name="v0.1.6"></a>
 ## [v0.1.6] - 2020-12-29
 ### Chore
@@ -16,6 +27,9 @@
 - **deps:** update actions/setup-go action to v2 ([#12](https://github.com/clok/awssession/issues/12))
 - **deps:** update module aws/aws-sdk-go to v1.34.26 ([#7](https://github.com/clok/awssession/issues/7))
 - **deps:** update module clok/kemba to v0.7.1 ([#6](https://github.com/clok/awssession/issues/6))
+
+### Features
+- **release:** v0.1.6
 
 
 <a name="v0.1.5"></a>
@@ -84,7 +98,8 @@
 - **release:** v0.1.0
 
 
-[Unreleased]: https://github.com/clok/awssession/compare/v0.1.6...HEAD
+[Unreleased]: https://github.com/clok/awssession/compare/v1.0.0...HEAD
+[v1.0.0]: https://github.com/clok/awssession/compare/v0.1.6...v1.0.0
 [v0.1.6]: https://github.com/clok/awssession/compare/v0.1.5...v0.1.6
 [v0.1.5]: https://github.com/clok/awssession/compare/v0.1.4...v0.1.5
 [v0.1.4]: https://github.com/clok/awssession/compare/v0.1.3...v0.1.4
