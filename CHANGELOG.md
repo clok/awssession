@@ -2,6 +2,13 @@
 ## [Unreleased]
 
 
+<a name="v1.1.0"></a>
+## [v1.1.0] - 2021-03-15
+### Chore
+- **ci:** port to using golangci-lint github action
+- **go.mod:** bump to go 1.16
+
+
 <a name="v1.0.0"></a>
 ## [v1.0.0] - 2021-03-03
 ### Bug Fixes
@@ -11,6 +18,9 @@
 - **github actions:** add go proxy warming
 - **renovate:** add extension for group:allNonMajor
 - **renovate:** add gomodTidy option
+
+### Features
+- **release:** v1.0.0
 
 
 <a name="v0.1.6"></a>
@@ -98,7 +108,8 @@
 - **release:** v0.1.0
 
 
-[Unreleased]: https://github.com/clok/awssession/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/clok/awssession/compare/v1.1.0...HEAD
+[v1.1.0]: https://github.com/clok/awssession/compare/v1.0.0...v1.1.0
 [v1.0.0]: https://github.com/clok/awssession/compare/v0.1.6...v1.0.0
 [v0.1.6]: https://github.com/clok/awssession/compare/v0.1.5...v0.1.6
 [v0.1.5]: https://github.com/clok/awssession/compare/v0.1.4...v0.1.5
