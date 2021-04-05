@@ -2,11 +2,24 @@
 ## [Unreleased]
 
 
+<a name="v1.1.1"></a>
+## [v1.1.1] - 2021-04-05
+### Bug Fixes
+- **deps:** update all non-major dependencies ([#24](https://github.com/clok/awssession/issues/24))
+- **deps:** update module github.com/aws/aws-sdk-go to v1.38.12 ([#23](https://github.com/clok/awssession/issues/23))
+
+### Ci
+- add makefile and go releaser
+
+
 <a name="v1.1.0"></a>
 ## [v1.1.0] - 2021-03-15
 ### Chore
 - **ci:** port to using golangci-lint github action
 - **go.mod:** bump to go 1.16
+
+### Features
+- **release:** v1.1.0
 
 
 <a name="v1.0.0"></a>
@@ -108,7 +121,8 @@
 - **release:** v0.1.0
 
 
-[Unreleased]: https://github.com/clok/awssession/compare/v1.1.0...HEAD
+[Unreleased]: https://github.com/clok/awssession/compare/v1.1.1...HEAD
+[v1.1.1]: https://github.com/clok/awssession/compare/v1.1.0...v1.1.1
 [v1.1.0]: https://github.com/clok/awssession/compare/v1.0.0...v1.1.0
 [v1.0.0]: https://github.com/clok/awssession/compare/v0.1.6...v1.0.0
 [v0.1.6]: https://github.com/clok/awssession/compare/v0.1.5...v0.1.6
