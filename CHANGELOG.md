@@ -2,11 +2,23 @@
 ## [Unreleased]
 
 
+<a name="v1.1.2"></a>
+## [v1.1.2] - 2021-06-17
+### Bug Fixes
+- **deps:** update module github.com/aws/aws-sdk-go to v1.38.63 ([#28](https://github.com/clok/awssession/issues/28))
+- **deps:** update module github.com/aws/aws-sdk-go to v1.38.54 ([#27](https://github.com/clok/awssession/issues/27))
+- **deps:** update module github.com/aws/aws-sdk-go to v1.38.39 ([#26](https://github.com/clok/awssession/issues/26))
+- **deps:** update module github.com/aws/aws-sdk-go to v1.38.19 ([#25](https://github.com/clok/awssession/issues/25))
+
+
 <a name="v1.1.1"></a>
 ## [v1.1.1] - 2021-04-05
 ### Bug Fixes
 - **deps:** update all non-major dependencies ([#24](https://github.com/clok/awssession/issues/24))
 - **deps:** update module github.com/aws/aws-sdk-go to v1.38.12 ([#23](https://github.com/clok/awssession/issues/23))
+
+### Chore
+- update changelog for v1.1.1
 
 ### Ci
 - add makefile and go releaser
@@ -121,7 +133,8 @@
 - **release:** v0.1.0
 
 
-[Unreleased]: https://github.com/clok/awssession/compare/v1.1.1...HEAD
+[Unreleased]: https://github.com/clok/awssession/compare/v1.1.2...HEAD
+[v1.1.2]: https://github.com/clok/awssession/compare/v1.1.1...v1.1.2
 [v1.1.1]: https://github.com/clok/awssession/compare/v1.1.0...v1.1.1
 [v1.1.0]: https://github.com/clok/awssession/compare/v1.0.0...v1.1.0
 [v1.0.0]: https://github.com/clok/awssession/compare/v0.1.6...v1.0.0
