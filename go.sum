@@ -1,5 +1,5 @@
-github.com/aws/aws-sdk-go v1.43.34 h1:8+P+773CDgQqN1eLH1QHT6XgXHUbME3sAbDGszzjajY=
-github.com/aws/aws-sdk-go v1.43.34/go.mod h1:y4AeaBuwd2Lk+GepC1E9v0qOiTws0MIWAX4oIKwKHZo=
+github.com/aws/aws-sdk-go v1.44.18 h1:rPDxVLNZL9R76yifC0kYOnfnkMswLfy89c8LBJSyvgY=
+github.com/aws/aws-sdk-go v1.44.18/go.mod h1:y4AeaBuwd2Lk+GepC1E9v0qOiTws0MIWAX4oIKwKHZo=
 github.com/clok/kemba v1.1.1 h1:s1G0dd7NrScBuYcBHQNzPJ1u3q/herMuY9VGYFSleTA=
 github.com/clok/kemba v1.1.1/go.mod h1:rsYZSVvRq+nopEvJpMRWDV+pbg4pUKMtXjAuTLHAENQ=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
