@@ -1,6 +1,6 @@
 module github.com/clok/awssession
 
-go 1.16
+go 1.16.15
 
 require (
 	github.com/aws/aws-sdk-go v1.43.34
