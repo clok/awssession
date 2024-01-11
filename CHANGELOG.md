@@ -2,6 +2,20 @@
 ## [Unreleased]
 
 
+<a name="v1.1.3"></a>
+## [v1.1.3] - 2024-01-11
+### Bug Fixes
+- **deps:** update module github.com/aws/aws-sdk-go to v1.43.34 ([#32](https://github.com/clok/awssession/issues/32))
+- **deps:** update module github.com/aws/aws-sdk-go to v1.42.25 ([#31](https://github.com/clok/awssession/issues/31))
+
+### Chore
+- **ci:** bump go version and all CI actions ([#47](https://github.com/clok/awssession/issues/47))
+- **deps:** update actions/checkout action to v3 ([#33](https://github.com/clok/awssession/issues/33))
+- **deps:** update actions/setup-go action to v3 ([#34](https://github.com/clok/awssession/issues/34))
+- **deps:** update golangci/golangci-lint-action action to v3 ([#35](https://github.com/clok/awssession/issues/35))
+- **deps:** update all non-major dependencies ([#29](https://github.com/clok/awssession/issues/29))
+
+
 <a name="v1.1.2"></a>
 ## [v1.1.2] - 2021-06-17
 ### Bug Fixes
@@ -9,6 +23,9 @@
 - **deps:** update module github.com/aws/aws-sdk-go to v1.38.54 ([#27](https://github.com/clok/awssession/issues/27))
 - **deps:** update module github.com/aws/aws-sdk-go to v1.38.39 ([#26](https://github.com/clok/awssession/issues/26))
 - **deps:** update module github.com/aws/aws-sdk-go to v1.38.19 ([#25](https://github.com/clok/awssession/issues/25))
+
+### Chore
+- update changelog for v1.1.2
 
 
 <a name="v1.1.1"></a>
@@ -133,7 +150,8 @@
 - **release:** v0.1.0
 
 
-[Unreleased]: https://github.com/clok/awssession/compare/v1.1.2...HEAD
+[Unreleased]: https://github.com/clok/awssession/compare/v1.1.3...HEAD
+[v1.1.3]: https://github.com/clok/awssession/compare/v1.1.2...v1.1.3
 [v1.1.2]: https://github.com/clok/awssession/compare/v1.1.1...v1.1.2
 [v1.1.1]: https://github.com/clok/awssession/compare/v1.1.0...v1.1.1
 [v1.1.0]: https://github.com/clok/awssession/compare/v1.0.0...v1.1.0
