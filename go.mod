@@ -3,7 +3,7 @@ module github.com/clok/awssession
 go 1.18
 
 require (
-	github.com/aws/aws-sdk-go v1.49.19
+	github.com/aws/aws-sdk-go v1.55.5
 	github.com/clok/kemba v1.2.1
 )
 
